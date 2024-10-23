@@ -66,7 +66,7 @@ document.querySelectorAll('.content-toggle').forEach(item => {
             columns[4].innerHTML = `<h3>ALGAR</h3>
                             <a href="https://algartelecom.com.br/" target="_blank">Algar</a>`;
         } else if (target === 'new10') {
-            columns[0].innerHTML = `<h3>Desenvolvedores</h3>
+            columns[0].innerHTML = `<h3>Desenvolvedor</h3>
                             <a>Pedro Bittencourt</a>`;
             columns[1].innerHTML = ``;
             columns[2].innerHTML = ``;
